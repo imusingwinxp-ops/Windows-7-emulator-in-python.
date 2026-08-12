@@ -3,15 +3,28 @@ The code is not advanced enough at the moment, however, to be called an emulator
 
 Key features include (but are not limited to):
 ✓ Windows 7-style boot sequence
+
 ✓ Login screen
+
 ✓ Desktop
+
 ✓ Start Menu
+
 ✓ Context menus
+
 ✓ My Computer
+
 ✓ Recycle Bin
+
 ✓ Calculator
+
 ✓ Partial host Windows OS integration (requires Python to be launched in Windows)
+
 ✓ Shutdown sequence
+
 ✓ BSOD
+
 ✓ Windows startup/shutdown sounds
+
 ✓ Resolution-independent UI
+
