@@ -29,3 +29,19 @@ Key features include (but are not limited to):
 
 ✓ Resolution-independent UI
 
+Features to add in the future:
+
+Host dependant file system
+
+Host app itegration
+
+Windows 7 applets or simulated applets
+
+Control Panel
+
+Themes
+
+Toggle-able settings
+
+More features that you tell me you want!
+
