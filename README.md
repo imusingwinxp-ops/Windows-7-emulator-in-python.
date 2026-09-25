@@ -33,7 +33,7 @@ Features to add in the future:
 
 Host dependant file system
 
-Host app itegration
+Host app integration
 
 Windows 7 applets or simulated applets
 
